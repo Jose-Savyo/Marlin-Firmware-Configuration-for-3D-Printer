@@ -42,7 +42,7 @@ This repository contains the Marlin firmware configuration for 3D printer, confi
     - Compile the firmware by clicking on the "Build" button.
     - Upload the firmware to your 3D printer.
 
-## Screenshot of Firmware Information
+## Screenshot
 
 ![Firmware Information](images/IHM.png)
 
