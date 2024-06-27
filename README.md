@@ -28,8 +28,8 @@ This repository contains the Marlin firmware configuration for 3D printer, confi
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/texas-pro-marlin-config.git
-    cd texas-pro-marlin-config
+    git clone https://github.com/your-username/marlin-config.git
+    cd marlin-config
     ```
 
 2. **Open the Project in PlatformIO**:
@@ -44,7 +44,7 @@ This repository contains the Marlin firmware configuration for 3D printer, confi
 
 ## Screenshot of Firmware Information
 
-![Firmware Information](path/to/Screenshot_of_Marlin_3D_printer_firmware_informati.png)
+![Firmware Information](images/IHM.png)
 
 ## Contributing
 
